@@ -1,7 +1,6 @@
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=781AF7&width=435&lines=Martim+Leitner+;Computer+and+Informatic+Engineer+)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=781AF7&center=true&vCenter=true&multiline=true&width=435&lines=Martim+Leitner+;Computer+and+Informatic+Engineer+)](https://git.io/typing-svg)
+
+
 <div align="left">
 
 # I use: <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/ubuntu.svg" alt="CSS" height="30"/> , <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/arch_linux.svg" alt="CSS" height="30" />  btw

@@ -1,13 +1,14 @@
 
 
-<div align="center" height="120px">
+<div align="center" height="120px" style="padding-top:10%;padding-bottom:10%;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&pause=1000&color=FFFFFF&center=true&multiline=true&repeat=false&width=435&height=146&lines=Hi+there+I'm+;Martim+Leitner;Computer+and+Informatics+Engineering)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=42&duration=2000&pause=100&color=F7F7F7&center=true&multiline=true&repeat=false&width=1000&height=200&lines=Hi+there+I'm+Martim+Leitner;Currently+studying+at+University+of+Aveiro;Computer+%26+Informatics+Engineering)](https://git.io/typing-svg)
 
 </div>
 
 
-## Currently doing some cool stuff at <img src="glua.svg" height="25px">
+<h2 style="padding-bottom:2%"> Doing some cool stuff at  <a href="https://glua.ua.pt"> <img  src="glua.svg" height="25px"></a> </h2>
 
 <br>
 
